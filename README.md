@@ -6,6 +6,6 @@
 ## 👾 Contribution Graph
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/shinoyom89-bit/shinoyom89-bit/output/bomberman-contribution-graph-dark.svg"
-    alt="Bomberman Contribution Graph">
+    src="https://raw.githubusercontent.com/shinoyom89-bit/shinoyom89-bit/output/galaga-contribution-graph-dark.svg"
+    alt="Galaga Contribution Graph">
 </p>

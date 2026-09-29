@@ -80,7 +80,7 @@
   <g opacity="0">
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.6875;0.9375;0.96875;1" dur="16s" repeatCount="indefinite"/>
     <g clip-path="url(#clip3)">
-      <text x="305" y="163" font-family="Fira Code, Consolas, monospace" font-size="34" font-weight="600" fill="#ffffff" stroke="#6c8cff" stroke-width="0.6">Orchestrating AI Workflows</text>
+      <text x="305" y="163" font-family="Fira Code, Consolas, monospace" font-size="34" font-weight="600" fill="#ffffff" stroke="#6c8cff" stroke-width="0.6">Orchestrating AI ML Workflows</text>
     </g>
   </g>
 
